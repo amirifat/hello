@@ -1,0 +1,57 @@
+/*lg*/
+@media (max-width: 1199px){
+	
+}
+/*md*/
+@media (max-width: 991px){
+
+.banner-section h1{
+	font-size: 25px;
+}
+
+.nature-section h2{
+	font-size: 24px;
+}
+.cute-section h2{
+	font-size: 25px;
+}
+.model-section h2{
+	font-size: 25px;
+}
+h6{
+	font-size: 16px;
+}
+ img{
+ 	width: 100%;
+ }
+}
+
+/*sm*/
+@media (max-width: 767px){
+
+.banner-section h1{
+	font-size: 21px;
+}
+
+.nature-section h2{
+	font-size: 24px;
+}
+.cute-section h2{
+	font-size: 25px;
+}
+.model-section h2{
+	font-size: 24px;
+}
+h6{
+	font-size: 15px;
+}
+
+ img{
+ 	width: 100%;
+ }	
+}
+
+/*col*/
+@media (max-width: 575px){
+
+}
